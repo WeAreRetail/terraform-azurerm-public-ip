@@ -26,7 +26,7 @@ Common Azure terraform module to create a Public IP
 | <a name="input_name_separator"></a> [name\_separator](#input\_name\_separator) | Separator for CAF prefixes in name. | `string` | `"-"` | no |
 | <a name="input_sku"></a> [sku](#input\_sku) | n/a | `string` | `"Standard"` | no |
 | <a name="input_sku_tier"></a> [sku\_tier](#input\_sku\_tier) | n/a | `string` | `"Regional"` | no |
-| <a name="input_zones"></a> [zones](#input\_zones) | n/a | `list(string)` | <pre>[<br>  "1",<br>  "2",<br>  "3"<br>]</pre> | no |
+| <a name="input_zones"></a> [zones](#input\_zones) | n/a | `list(string)` | <pre>[<br/>  "1",<br/>  "2",<br/>  "3"<br/>]</pre> | no |
 
 #### Outputs
 
